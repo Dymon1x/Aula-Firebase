@@ -1,0 +1,13 @@
+<resources>
+    <!--    <string name="app_name">Aula1101_firebase</string>-->
+    <string name="app_name">Firebase Auth</string>
+    <string name="tv_login_rotulo">Login</string>
+    <string name="til_email">Email</string>
+    <string name="til_password">Password</string>
+    <string name="btn_rotulo">Button</string>
+    <string name="tv_create_register">Não tem conta? clique aqui</string>
+    <string name="tv_register_rotulo">Cadastrar</string>
+    <string name="tv_back_login">Já tem conta? Volte para Login</string>
+    <string name="btn_rotulo_register">Salvar</string>
+    <string name="btn_logout">Logout</string>
+</resources>
